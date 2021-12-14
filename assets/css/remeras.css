@@ -1,0 +1,11 @@
+.row{
+  display: flex;
+ justify-content: space-evenly;
+
+}
+
+.row img{
+  width: 90px;
+  height: 90px;
+  
+}
